@@ -1,1 +1,1 @@
-花瓣网（www.huaban.com）爬虫
+花瓣网爬虫（www.huaban.com）
